@@ -673,8 +673,8 @@ span{
     background: var(--bg-color);
   }
   
-  #menu-icon{
-    display: block;
+  #menu-icon {
+    display: block ;
   }
 
   .navbar {
