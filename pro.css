@@ -668,13 +668,13 @@ span{
 
 }
 
-@media (max-width: 768x) {
+@media (max-width: 768px) {
   .header{
-    background: var(--bg-color);
+    background:var(--bg-color);
   }
   
-  #menu-icon {
-    display: block ;
+  #menu-icon{
+    display: block;
   }
 
   .navbar {
